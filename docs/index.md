@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Paper List
 
-[翻译-What Goes Around Comes Around](翻译-What Goes Around Comes Around.md)
+[翻译-What Goes Around Comes Around](翻译-What-Goes-Around-Comes-Around.md)
+
+## Welcome to git pages
 You can use the [editor on GitHub](https://github.com/xchliu/papers-of-database/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
