@@ -3,7 +3,7 @@
 
 ## Paper List
 
-[翻译-What Goes Around Comes Around](../papers/翻译-What-Goes-Around-Comes-Around.md)
+[翻译-What Goes Around Comes Around](papers/翻译-What-Goes-Around-Comes-Around.md)
 
 ## TODO List
 
