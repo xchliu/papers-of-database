@@ -1,8 +1,12 @@
+## <a name='TOC'>Database Reading List</a>
+1.[paper list](#Paper list).
+
 ## Paper List
 
-[翻译-What Goes Around Comes Around](翻译-What-Goes-Around-Comes-Around.md)
+[翻译-What Goes Around Comes Around](../papers/翻译-What-Goes-Around-Comes-Around.md)
 
 ## TODO List
+
 ##Basic
 
 * Data Models and DBMS Architecture
@@ -112,37 +116,21 @@
 * Lagar-Cavilla et al., Software-Defined Far Memory in Warehouse-Scale Computers, ASPLOS'19.
 * [Optional] Aguilera et al., Remote Memory in the Age of Fast Networks, SoCC'17.
 
+# Read List
+
+* Berkeley [PhD prelim exam reading list](http://www.eecs.berkeley.edu/GradAffairs/CS/Prelims/db.html) and [CS286 grad database class reading list](http://www.cs286.net/home/reading-list)
+* [Brown CSCI 2270 Advanced Topics in Database Management](http://www.cs.brown.edu/courses/cs227/papers.html)
+* [Stanford PhD qualifying exam](http://infolab.stanford.edu/db_pages/infoqual.html)
+* MIT: [Database Systems 6.830 year 2014](http://db.csail.mit.edu/6.830/sched.html) and [year 2010](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/readings/)
+* [Wisconsin Database Qualifying Exam Reading List (2014)](https://www.cs.wisc.edu/sites/default/files/pictures/Database%20systems%20qual_Summer%202014.pdf)
+* [CMU 15-721 Database Systems Reading List (Spring 2016)](http://15721.courses.cs.cmu.edu/spring2016/schedule.html)
 
 
 
-# Readme
-You can use the [editor on GitHub](https://github.com/xchliu/papers-of-database/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# notes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### markdown
+For more details about md see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
